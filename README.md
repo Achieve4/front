@@ -8,12 +8,15 @@ npm start
 ```
 로 프로젝트 실행
 
+<br />
+
 실행이 안될 경우 
 ```
 npm install
 ```
 시도 (node module 모두를 설치하는 명령어)
 
+<br />
 
 위의 방법이 안되는 경우 
 ```
